@@ -1,1 +1,2 @@
-# jhubar.github.io
+# Author
+[Julien Hubar](https://jhubar.github.io)
